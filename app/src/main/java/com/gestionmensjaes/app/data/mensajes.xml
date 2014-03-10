@@ -1,0 +1,37 @@
+<MENSAJES>
+	<MENSAJE>
+		<ID>1</ID>
+		<ASUNTO>aaa</ASUNTO>
+		<CONTENIDO>aaaaaaaaaaaaaaaaaaaaaaaaaaaa</CONTENIDO>
+		<REMITENTE>Alberto</REMITENTE>
+		<GRUPO>Oficina</GRUPO>
+	</MENSAJE>
+	<MENSAJE>
+		<ID>2</ID>
+		<ASUNTO>eee</ASUNTO>
+		<CONTENIDO>eeeeeeeeeeeeeeeeeeeeeeeeeeee</CONTENIDO>
+		<REMITENTE>Juan</REMITENTE>
+		<GRUPO>Oficina</GRUPO>
+	</MENSAJE>
+	<MENSAJE>
+		<ID>3</ID>
+		<ASUNTO>iii</ASUNTO>
+		<CONTENIDO>iiiiiiiiiiiiiiiiiiiiiiiiiiiii</CONTENIDO>
+		<REMITENTE>Pepa</REMITENTE>
+		<GRUPO>Administracion</GRUPO>
+	</MENSAJE>
+	<MENSAJE>
+		<ID>4</ID>
+		<ASUNTO>ooo</ASUNTO>
+		<CONTENIDO>ooooooooooooooooooooooooooooo</CONTENIDO>
+		<REMITENTE>Jose</REMITENTE>
+		<GRUPO>Oficina</GRUPO>
+	</MENSAJE>
+	<MENSAJE>
+		<ID>5</ID>
+		<ASUNTO>uuu</ASUNTO>
+		<CONTENIDO>uuuuuuuuuuuuuuuuuuuuuuuuuuuuu</CONTENIDO>
+		<REMITENTE>Francisco</REMITENTE>
+		<GRUPO>Administracion</GRUPO>
+	</MENSAJE>
+</MENSAJES>
