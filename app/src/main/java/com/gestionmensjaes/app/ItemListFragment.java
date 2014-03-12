@@ -13,7 +13,7 @@ import com.gestionmensjaes.app.data.BDMensajes;
 import com.gestionmensjaes.app.data.JgDownloadParseXML;
 import com.gestionmensjaes.app.data.Mensajes;
 import com.gestionmensjaes.app.data.MensajesList;
-import com.gestionmensjaes.app.dummy.DummyContent;
+//import com.gestionmensjaes.app.dummy.DummyContent;
 
 /**
  * A list fragment representing a list of Items. This fragment

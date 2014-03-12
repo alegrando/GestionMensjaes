@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LectorCorreos</string>
+    <string name="nombre">Name:      </string>
+    <string name="asunto">Issue:      </string>
+    <string name="mensaje">Message:    </string>
+    <string name="remitente">Sender:</string>
+    <string name="grupo">Group:        </string>
+    <string name="title_item_detail">Item Detail</string>
+
+</resources>

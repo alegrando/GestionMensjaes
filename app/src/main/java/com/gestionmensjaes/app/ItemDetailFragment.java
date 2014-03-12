@@ -10,7 +10,7 @@ import android.widget.TextView;
 
 import com.gestionmensjaes.app.data.Mensajes;
 import com.gestionmensjaes.app.data.MensajesList;
-import com.gestionmensjaes.app.dummy.DummyContent;
+//import com.gestionmensjaes.app.dummy.DummyContent;
 
 /**
  * A fragment representing a single Item detail screen.
@@ -61,7 +61,7 @@ public class ItemDetailFragment extends Fragment {
         // Show the dummy content as text in a TextView.
         if(mensajes != null) {
             ((EditText) rootView.findViewById(R.id.editText)).setText(mensajes.getAsunto());
-            ((EditText) rootView.findViewById(R.id.editText2)).setText(mensajes.getContenido());
+            ((EditText) rootView.findViewById(R.id.editText5)).setText(mensajes.getContenido());
             ((EditText) rootView.findViewById(R.id.editText3)).setText(mensajes.getRemitente());
             ((EditText) rootView.findViewById(R.id.editText4)).setText(mensajes.getGrupo());
         }
